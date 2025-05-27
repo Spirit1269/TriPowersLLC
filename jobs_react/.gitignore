@@ -35,3 +35,8 @@ yarn-error.log*
 # Local env files
 .env
 .env.development
+bin/
+obj/
+.vs/
+../.gitignore
+../obj
